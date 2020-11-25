@@ -1,5 +1,7 @@
 /tmp
 /build
+/dist/lib
+/dist/types
 /nbproject/
 image.jpg
 /.project
