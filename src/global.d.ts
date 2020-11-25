@@ -1,8 +1,8 @@
 interface CSSStyleDeclaration {
-    textDecorationColor: string | null;
-    textDecorationLine: string | null;
-    textFillColor: string | null;
-    overflowWrap: string | null;
+    textDecorationColor: string;
+    textDecorationLine: string;
+    textFillColor: string;
+    overflowWrap: string;
 }
 
 interface DocumentType extends Node, ChildNode {
