@@ -1,0 +1,1 @@
+{"version":3,"file":"text-stroke-color.js","sourceRoot":"","sources":["../../../../src/css/property-descriptors/text-stroke-color.ts"],"names":[],"mappings":";;AAAA,8DAAmG;AAEtF,QAAA,eAAe,GAAiC;IACzD,IAAI,EAAE,mBAAmB;IACzB,YAAY,EAAE,aAAa;IAC3B,MAAM,EAAE,IAAI;IACZ,IAAI,EAAE,mDAA6B,CAAC,UAAU;IAC9C,MAAM,EAAE,OAAO;CAClB,CAAC"}
